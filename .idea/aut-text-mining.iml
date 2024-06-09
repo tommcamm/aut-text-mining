@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Lab2/terrorism_articles" />
       <excludeFolder url="file://$MODULE_DIR$/Assignment/code/Assignment2BlogData" />
     </content>
-    <orderEntry type="jdk" jdkName="AUTTM" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="AUT-TM" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
